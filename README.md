@@ -1,4 +1,4 @@
 testGithub
 ==========
 
-My first github test repository 
+This is my first github trial, cheers! 
